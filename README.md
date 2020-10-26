@@ -7,16 +7,16 @@ a online home painter from painting company
 Company and bot will take you to register
 for that
 ### Files
-*web.html and web.css:-
+#### web.html and web.css:-
  The code here specifies entire website and from
 here we can move to registration form and bot 
 Conversation
-*regform.html,regform.css,regform.js:-
+##### regform.html,regform.css,regform.js:-
   The code here is for submitting details of
 the customer
-*chat.html,chat.css,chat.js:-
+###### chat.html,chat.css,chat.js:-
  The code here is for working of chatbot
-#### Youtube demolink of chatbot
+####### YOUTUBE DEMO LINK FOR CHATBOT
 https://youtu.be/-896Eu3HP-I
-##### repl.it link
+######## REPL.IT LINK
 https://chat.sahi1201.repl.co
