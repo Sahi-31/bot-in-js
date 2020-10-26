@@ -1,0 +1,32 @@
+.flex {
+  display: flex;
+  justify-content: center;
+  flex-flow: column;
+  align-items: center;
+  height: 100vh;
+}
+body{
+ background-image:url("ba.jpeg");
+ background-size:cover;
+ color:white;
+   }
+#form{
+ background:#2B3856;
+ border-style:grooved;
+ border-color:white;
+ border-width:5px;
+ margin-left:250px;
+ margin-right:200px;
+ height:700px;
+ padding-top:100px;
+ text-align:center;
+ color:white;
+ font-size:20px;
+}
+input{
+  width:250px;
+ }
+button{
+   width:150px;
+   font-size:15px;
+}

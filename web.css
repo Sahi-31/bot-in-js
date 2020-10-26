@@ -1,0 +1,96 @@
+body,html{
+color:green;
+height:100%;
+}
+body{
+ background-image:url("back.jpeg");
+ background-size:cover;
+ height:100%;
+color:white;
+}
+
+.sach{
+   height:130px;
+   width:110px;
+  
+}
+.sa{
+    margin-top:20px;
+    color:blue;
+    font-size:20px;
+  }
+.saa{
+    margin-top:5px;
+    
+   
+  }
+.sachh{
+   height:160px;
+   width:170px;
+  padding:35px 35px;
+margin-top:5px;
+}
+.sac{
+ height:170px;
+   width:210px;
+  padding:35px 35px;
+}
+.fbm{
+
+height:50px;
+   width:50px;
+  
+  border-radius:1000px;
+  
+
+margin:auto;
+align:center;
+
+}
+.fbb{
+ margin-left:60px;
+}
+.first{
+  color:white;
+  
+}
+ .second{
+margin-top:20px;
+color:white;
+}
+.mar{
+ margin-top:30px;
+color:red;
+}
+.four{
+  margin-top:30px;
+}
+.six{
+ margin-left:130px;
+color:blue;
+}
+.cho{
+ margin-top:50px;
+}
+i{
+color:blue;
+}
+h1{
+ color:green;
+}
+.web{
+ text-align:center;
+margin-top:25px;
+color:yellow;
+color:#2B3856;
+}
+ .five{
+ margin-top:20px;
+}
+.hi{
+color:red;
+}
+
+
+
+  
